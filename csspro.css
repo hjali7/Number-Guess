@@ -1,0 +1,14 @@
+body{
+    background-color: #cccccc;
+    margin:20px;
+    padding:40px 60px;
+    border:5px groove black;
+    text-align: center;
+}
+.divOne{
+    padding-bottom: 0px;
+}
+.divOne h2 {
+    font-size: 2em;
+    letter-spacing: 5px;
+}
